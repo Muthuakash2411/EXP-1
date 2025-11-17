@@ -54,7 +54,6 @@ Calculation:
 a.   KVL:
  
 
-
 b.  KCL:
 
 
